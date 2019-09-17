@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html LANG="EN">
+<html>
+<head>
+	<title> Teren de fotbal </title>
+	<style type="text/css">
+		.blue {
+			height: 50%;
+			background: #4682B4;
+		}
+		.red {
+			height: 50%;
+			background: #8B0000;
+		}
+</style>
+</head>
+	<body>
+	<div class="red">
+	<div class="blue">
+	</body>
+</html>
