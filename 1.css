@@ -1,0 +1,124 @@
+body {
+	background-image: url("teren.jpg"); no-repeat;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.vrat {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    left: 10%; 
+    top: 50%;
+}
+.player1 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    left: 25%; 
+    top: 20%;
+}.player2 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    left: 25%; 
+    top: 40%;
+}
+.player3 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    left: 25%; 
+    top: 60%;
+}
+.player4 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    left: 25%; 
+    top: 80%;
+}
+.player5 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    left: 30%; 
+    top: 30%;
+}
+.player6 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    left: 30%; 
+    top: 50%;
+}
+.player7 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    left: 30%; 
+    top: 70%;
+}
+.player8 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    left: 35%; 
+    top: 40%;
+}
+.player9 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    left: 35%; 
+    top: 60%;
+}
+.player10 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    left: 40%; 
+    top: 50%;
+}
+.player11 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    right: 25%; 
+    top: 20%;
+}
+.player12 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    right: 25%; 
+    top: 40%;
+}
+.player13 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    right: 25%; 
+    top: 60%;
+}
+.player14 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    right: 25%; 
+    top: 80%;
+}
+.player15 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    right: 30%; 
+    top: 30%;
+}
+.player16 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    right: 30%; 
+    top: 50%;
+}
+.player17 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    right: 30%; 
+    top: 70%;
+}
+.player18 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    right: 35%; 
+    top: 40%;
+}
+.player19 {
+    border: 3px solid #FFEFD5;
+    position: absolute;
+    right: 35%; 
+    top: 60%;
+}
