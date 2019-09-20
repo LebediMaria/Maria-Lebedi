@@ -1,21 +1,61 @@
-<!DOCTYPE html>
-<html LANG="EN">
 <html>
 <head>
-	<title> Teren de fotbal </title>
-	<style type="text/css">
-		.blue {
-			height: 50%;
-			background: #4682B4;
-		}
-		.red {
-			height: 50%;
-			background: #8B0000;
-		}
-</style>
+	<link href="css/1.css" rel="stylesheet">
 </head>
 	<body>
-	<div class="red">
-	<div class="blue">
-	</body>
+		<div class="vrat">
+			<img src="vrat.jpg">
+		</div>
+		<div class="player1">
+	                <img src="player1.jpg">
+		</div>
+		<div class="player2">
+			<img src="player1.jpg">
+		</div>
+		<div class="player3">
+			<img src="player1.jpg">
+		</div>
+		<div class="player4">
+			<img src="player1.jpg">
+		</div>
+		<div class="player5">
+			<img src="player1.jpg">
+		</div>
+		<div class="player6">
+			<img src="player1.jpg">
+		</div>
+		<div class="player7">
+			<img src="player1.jpg">
+		</div>
+		<div class="player8">
+			<img src="player1.jpg">
+		</div>
+		<div class="player9">
+			<img src="player1.jpg">
+		</div>
+		<div class="player10">
+			<img src="player1.jpg">
+		</div>
+		<div class="player11">
+			<img src="team2.jpg">
+		</div>
+		<div class="player12">
+			<img src="team2.jpg">
+		</div>
+		<div class="player13">
+			<img src="team2.jpg">
+		</div>
+		<div class="player14">
+			<img src="team2.jpg">
+		</div>
+		<div class="player15">
+			<img src="team2.jpg">
+		</div>
+		<div class="player16">
+			<img src="team2.jpg">
+		</div>
+		<div class="player17">
+			<img src="team2.jpg">
+		</div>
+	</body> 
 </html>
